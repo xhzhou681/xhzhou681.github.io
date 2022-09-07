@@ -1,0 +1,105 @@
+div.special{
+    color:black;
+    border:solid black;
+    margin: 0 auto;
+    border-width: 1.5px;
+    margin-top:23px;
+    margin-bottom:55px;
+    width: 420px;
+}
+
+div.test{
+    margin-left:40px;
+    margin-right:40px;
+}
+
+div.special2{
+    margin: 0 auto;
+    width: 420px;
+}
+
+p.heading{
+    text-align:center;
+    font-family:"Times New Roman",Times,serif;
+    font-size:35px;
+    margin-top:9px;
+    margin-bottom:3px;
+	
+}
+
+.pic1{
+    margin-bottom:0.5px;
+    width: 500px;
+    height:500px;
+    object-fit: cover;
+}
+
+.copyright{
+    text-align:center;
+    margin-top:13px;
+    color:gray;
+    font-size:6px;
+    font-family: 'Bree Serif', serif; 
+    font-style:italic;
+}
+
+.links{
+    text-align:center;
+    border:0px;
+    margin:0 auto;
+    margin-bottom:13px;
+
+}
+
+.link{
+    font-size:8px;
+    font-style:italic;
+}
+
+.pic2{
+    width: 10px;
+    height:10px;
+    object-fit: cover;
+}
+
+.picdiv{
+	margin:0%;
+	text-align:center;
+}
+
+a.home:link{
+    text-decoration: none;
+    color:black;
+    font-family: 'Bree Serif', serif;
+}
+
+a.home:visited{
+    text-decoration: none;
+    color:black;
+    font-family: 'Bree Serif', serif;
+}
+
+a.home:hover{
+    text-decoration: none;
+    color:black;
+    font-family: 'Bree Serif', serif;
+}
+
+a.other:link{
+    text-decoration: none;
+    color:gray;
+    font-family: 'Bree Serif', serif;
+}
+
+a.other:visited{
+    text-decoration: none;
+    color:gray;
+    font-family: 'Bree Serif', serif;
+}
+
+a.other:hover{
+    text-decoration: none;
+    color:black;
+    font-family: 'Bree Serif', serif; 
+}
+
