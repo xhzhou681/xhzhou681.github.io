@@ -272,13 +272,28 @@ header hr {
 .projects {
   background: #f5f5f5;
   padding: 40px;
-  min-height: 360px;
+  min-height: 380px;
   border-top:1px dashed #000
 }
 .projects h5 {
   display: inline-block;
 }
 .projects span {
+  padding-right: 10px;
+  padding-left: 20px;
+}
+
+/* projects section */
+.projectss {
+  background: #f5f5f5;
+  padding: 40px;
+  min-height: 420px;
+  border-top:1px dashed #000
+}
+.projectss h5 {
+  display: inline-block;
+}
+.projectss span {
   padding-right: 10px;
   padding-left: 20px;
 }
