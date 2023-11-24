@@ -258,7 +258,7 @@ header hr {
 .project {
   background: #f5f5f5;
   padding: 40px;
-  min-height: 400px;
+  min-height: 420px;
 }
 .project h5 {
   display: inline-block;
@@ -272,7 +272,7 @@ header hr {
 .projects {
   background: #f5f5f5;
   padding: 40px;
-  min-height: 350px;
+  min-height: 360px;
   border-top:1px dashed #000
 }
 .projects h5 {
